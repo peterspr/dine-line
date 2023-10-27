@@ -1,6 +1,6 @@
-# QueueEase - Restaurant Queuing System
+# DineLine - Restaurant Queuing System
 
-QueueEase is a modern and efficient restaurant queuing system that simplifies the dining experience for both customers and restaurant staff. With QueueEase, you can manage your restaurant's waiting list, estimate wait times, and provide customers with real-time updates on their table availability.
+DineLine is a modern and efficient restaurant queuing system that simplifies the dining experience for both customers and restaurant staff. With DineLine, you can manage your restaurant's waiting list, estimate wait times, and provide customers with real-time updates on their table availability.
 
 ## Features
 
@@ -10,7 +10,7 @@ QueueEase is a modern and efficient restaurant queuing system that simplifies th
 
 - **Real-Time Updates**: Receive instant notifications when it's your turn to be seated.
 
-- **Estimated Wait Times**: QueueEase leverages machine learning to estimate wait times accurately.
+- **Estimated Wait Times**: DineLine leverages machine learning to estimate wait times accurately.
 
 - **User Authentication**: Secure login for both admins and customers.
 
