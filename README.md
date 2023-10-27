@@ -62,13 +62,13 @@ cd server
 npm start
 ```
 
-##Documentation
+## Documentation
 
 For detailed setup instructions, API documentation, and user guides, please refer to the documentation directory.
-##Contributing
+## Contributing
 
 We welcome contributions from the open-source community. Please see our [Contribution Guidelines](https://github.com/peterspr/dine-line/CONTRIBUTE.md) for more information on how to get involved.
 
-##License
+## License
 
 This project is licensed under the [MIT License](https://github.com/peterspr/dine-line/LISENCE.md).
