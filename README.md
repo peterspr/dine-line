@@ -36,22 +36,32 @@ DineLine is a modern and efficient restaurant queuing system that simplifies the
 ### Installation
 
 1. Clone the repository:
+
 ```git clone https://github.com/peterspr/dine-line.git```
+
 2. Navigate to the client and server directories and install dependencies:
-```cd client
+
+```
+cd client
 npm install
 
 cd ../server
-npm install```
+npm install
+```
+
 3. Configure the environment variables, including database connection details, authentication credentials, and machine learning model endpoints.
 4. Start the frontend and backend servers:
-```# Frontend
+
+```
+# Frontend
 cd client
 npm run dev
 
 # Backend
 cd server
-npm start```
+npm start
+```
+
 ##Documentation
 
 For detailed setup instructions, API documentation, and user guides, please refer to the documentation directory.
